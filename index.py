@@ -2,9 +2,9 @@ def hello(name):
     """ Imprime uma saudação junto com o nome informado. """
     print "Hello " + name + "!"
 
-def square_number(num):
-    """ Retorna o quadrado do numero informado. """
-    return num ** 2
+def cubic_number(num):
+    """ Retorna o cubo do numero informado. """
+    return num ** 3
     
 hello("Marcelo")
 
